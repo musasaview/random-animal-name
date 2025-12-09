@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { randomAnimalName, randomAnimalNames } from "./index.ts";
+import { randomAnimalName, randomAnimalNames } from "./index";
 
 test("randomAnimalName returns a single animal", () => {
     const result = randomAnimalName();

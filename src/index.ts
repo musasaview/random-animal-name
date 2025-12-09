@@ -1,4 +1,4 @@
-import animalNames from "./animal-names.ts";
+import animalNames from "./animal-names";
 
 export type AnimalName = typeof animalNames[number];
 

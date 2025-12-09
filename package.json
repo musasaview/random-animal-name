@@ -1,0 +1,23 @@
+{
+  "name": "random-animal-name",
+  "version": "0.0.1",
+  "description": "A simple utility for picking random animal names.",
+  "homepage": "https://github.com/musasaview/random-animal-name#readme",
+  "bugs": {
+    "url": "https://github.com/musasaview/random-animal-name/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musasaview/random-animal-name.git"
+  },
+  "license": "MIT",
+  "author": "musasaview",
+  "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.2"
+  }
+}

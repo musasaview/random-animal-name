@@ -42,4 +42,4 @@ const neko = randomAnimalNames(5, (n) => n.ja.includes("ねこ"));
 // ]
 ```
 
-all animal list: [animal-names.ts](./animal-names.ts)
+all animal list: [animal-names.ts](./src/animal-names.ts)
